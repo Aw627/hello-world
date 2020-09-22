@@ -1,2 +1,4 @@
-# hello-world
-Lab1_OPS_HCAWONG
+# HCAWONG
+
+Ho Chun Adrian Wong
+OPS435.NAA
